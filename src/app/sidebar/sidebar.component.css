@@ -1,0 +1,20 @@
+@import '~font-awesome/css/font-awesome.css';
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+/* #side{
+    background-color: bisque;
+} */
+.nav-link{
+    color: black;
+    font-size: 22px;
+    margin-left: 20px;
+}
+.navbar:hover{
+    .nav-link {
+        color: rgb(153, 63, 40);
+        font-size: 23px;
+
+    }
+    background-color: rgb(166, 206, 243);
+}
+

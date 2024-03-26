@@ -1,0 +1,52 @@
+@import '~font-awesome/css/font-awesome.css';
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+#follower {
+    border-radius: 15px;
+    height: 100px;
+    margin-top: 20px;
+    border: 2px solid red;
+    margin-right: 20px;
+    background-color: red;
+    height: 150px;
+    width: 45%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+#like {
+    border-radius: 15px;
+    height: 100px;
+    margin-top: 20px;
+    border: 2px solid blue;
+    background-color: blue;
+    height: 150px;
+    width: 45%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#comment {
+    border-radius: 15px;
+    height: 100px;
+    margin-top: 50px;
+    border: 2px solid rgb(27, 141, 27);
+    margin-right: 20px;
+    background-color: rgb(27, 141, 27);
+    height: 150px;
+    width: 45%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#share {
+    border-radius: 15px;
+    height: 100px;
+    margin-top: 50px;
+    border: 2px solid rgb(235, 126, 54);
+    background-color: rgb(235, 126, 54);
+    height: 150px;
+    width: 45%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
